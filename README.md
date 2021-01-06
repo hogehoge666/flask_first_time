@@ -18,3 +18,8 @@ Flaskで作成する簡単なTodoアプリの写経です。
 - CSS
 - PyCharm CEでFlaskのデバッグ構成
 - READMEの追加
+
+
+## 3. 3番目のコミット
+- Todoアプリをsqlite3でPersistent化
+- UI変更
